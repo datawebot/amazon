@@ -1,0 +1,28 @@
+{
+  "brand": "amazon",
+  "name": "Amazon",
+  "domains": [
+    "amazon.com",
+    "amazon.sg",
+    "amazon.co.jp",
+    "amazon.co.uk",
+    "amazon.de",
+    "amazon.fr",
+    "amazon.com.au",
+    "amazon.it",
+    "amazon.es",
+    "amazon.ca",
+    "amazon.ae",
+    "amazon.sa",
+    "amazon.eg",
+    "amazon.com.tr",
+    "amazon.com.mx",
+    "amazon.pl",
+    "amazon.se",
+    "amazon.nl",
+    "amazon.com.be",
+    "amazon.ie"
+  ],
+  "search_endpoint": "amazon.search_items",
+  "product_endpoint": "amazon.product_details"
+}
